@@ -1,7 +1,5 @@
 # Introduction!
 - 👋 Hi, I’m Ivaylo Dimitrov from Bulgaria!
-- 👀 I’m interested in working on all sorts of projects
-- 🌱 I’m currently learning C#, C++, Python & web development
 # Contacts
 - 📫 E-Mail: vakisbeats@gmail.com
 - 📸 Instagram: @vakisddot
