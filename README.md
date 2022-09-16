@@ -1,6 +1,3 @@
-# Introduction!
-- 👋 Hi, I’m Ivaylo Dimitrov from Bulgaria!
-- I'm currently pursuing a bachelor's in Computer Systems & Technologies
 # Contacts
 - 📫 E-Mail: vakisbeats@gmail.com
 - 📸 Instagram: @vakisddot
