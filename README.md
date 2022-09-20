@@ -1,6 +1,5 @@
 # Contacts
 - 📫 E-Mail: vakisbeats@gmail.com
-- 📸 Instagram: @vakisddot
 
 <!---
 vakisddot/vakisddot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
