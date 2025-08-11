@@ -1,3 +1,6 @@
+- Creator of "Operation: Reboot" (soon to be available on Google Play)
+- Creator of "GIFs in Chat" and "World Country Flags" mods for Terraria
+
 # Contacts
 - 📫 E-Mail: vakisbeats@gmail.com
 
