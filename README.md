@@ -1,4 +1,4 @@
-- Creator of "Operation: Reboot" ([Google Play)[https://play.google.com/store/apps/details?id=com.the.barracks.app&pcampaignid=web_share))
+- Creator of "Operation: Reboot" ([Google Play](https://play.google.com/store/apps/details?id=com.the.barracks.app&pcampaignid=web_share))
 - Creator of "GIFs in Chat" and "World Country Flags" mods for Terraria
 
 # Contacts
