@@ -1,10 +1,18 @@
-- Creator of "Operation: Reboot" ([Google Play](https://play.google.com/store/apps/details?id=com.the.barracks.app&pcampaignid=web_share))
-- Creator of "GIFs in Chat" and "World Country Flags" mods for Terraria
+# 👋 Hi, i'm ivo!
+- i mostly do ___game, mobile & web dev___.
+- i also do digital content (___videos / pixel art / graphic designs___) and ___music___!
+- i'm also _officially_ known as ___"Vakïs Interactive"___.
 
-# Contacts
-- 📫 E-Mail: vakisbeats@gmail.com
+# 🚀 Projects
 
-<!---
-vakisddot/vakisddot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🦭 Operation: Reboot - [Website](https://operation-reboot.onrender.com/), [App Store](https://apps.apple.com/us/app/operation-reboot/id6753020360), [Google Play](https://play.google.com/store/apps/details?id=com.the.barracks.app&pcampaignid=web_share)
+A self-improvement app designed to help users combat digital-era addictions (social media, adult content, binge eating etc), build discipline & track relapses.
+
+## 🌲 GIFs in Chat (Terraria Mod)
+Brings life to Terraria chats with animated GIFs, powered by Tenor.
+
+## 🌍 World Country Flags (Terraria Mod)
+Adds national & historical flags to Terraria, letting players add "flavor" to their worlds and celebrate their origins.
+
+# 📫 Contact
+Email: vakisbeats@gmail.com
